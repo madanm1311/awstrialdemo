@@ -1,4 +1,7 @@
 this is my new file
+<<<<<<< HEAD
 User 1 changes
+=======
+
 Hmm, this is user 2 changes
 >>>>>>> user2
